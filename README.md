@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARAVIND-K-R
-- 👀 I’m interested in web designing, UI/UX design,python programming
-- 🌱 I’m currently learning python and html
+- 👀 I’m interested in flutter development
+- 🌱 This project is the clone app of Netflix
 
 
 <!---
